@@ -1,0 +1,19 @@
+Screen1 As screen:
+    Fill: =RGBA(238, 204, 204, 1)
+
+    Rectangle1 As rectangle:
+        BorderColor: =RGBA(168, 0, 0, 1)
+        Fill: =RGBA(168, 0, 0, 1)
+        Height: =110
+        Width: =640
+        ZIndex: =1
+
+    Label1 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =110
+        Size: =45
+        Text: ="Prueba GitHub"
+        Width: =640
+        ZIndex: =2
+

@@ -17,3 +17,21 @@ Screen1 As screen:
         Width: =640
         ZIndex: =2
 
+    Label2 As label:
+        Height: =70
+        Size: =21
+        Text: |-
+            ="Nombre:"
+        Width: =560
+        Y: =160
+        ZIndex: =3
+
+    TextInput1 As text:
+        Default: ="Text input"
+        Height: =70
+        Size: =21
+        Width: =480
+        X: =135
+        Y: =160
+        ZIndex: =4
+

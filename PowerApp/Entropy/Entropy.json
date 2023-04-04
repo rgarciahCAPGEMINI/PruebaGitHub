@@ -4,12 +4,14 @@
   "ControlUniqueIds": {
     "App": 1,
     "Label1": 5,
+    "Label2": 6,
     "Rectangle1": 4,
-    "Screen1": 3
+    "Screen1": 3,
+    "TextInput1": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/04/2023 20:19:29",
+  "HeaderLastSavedDateTimeUTC": "04/04/2023 20:22:00",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,21 +25,26 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "label": 1,
-    "rectangle": 0
+    "rectangle": 0,
+    "text": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Label1": {},
+    "Label2": {},
     "Rectangle1": {},
-    "Screen1": {}
+    "Screen1": {},
+    "TextInput1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
     "Label1": 1,
+    "Label2": 0,
     "Rectangle1": 0,
-    "Screen1": 0
+    "Screen1": 0,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
